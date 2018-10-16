@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+		<title>Alankar.com</title>
+</head>
+		<center>
+		<body>
+		 <h4><em>NEW LOOK-Explore Your Beauty</em></h4>
+		 <hr />
+		 <table align="left">
+		 <tr><td>
+		 <input type="text" id="f" placeholder="Search" name="from"/></td>
+		 <td><input type="button" name="" class="button" value="Search"/></td></tr></table>
+		 <table align="right">
+		 <tr>
+		 <td><a href="http://localhost/registeration/login.php">Login</a></td>
+		 <td><a href="http://localhost/registeration/register.php">Register</a></td>
+		 </tr>
+		 </table>
+		 <img src="https://athulyashyju.github.io/pic27.jpg" width="200px" height="100px"/><br />
+		 <div class="icon">
+			<a class="one" href="default.asp" target="_blank">HOME|</a>
+			<a class="two" href="default.asp" target="_blank">KIDS|</a>
+			<a class="three" href="default.asp" target="_blank">WOMENS|</a>
+			<a class="four" href="default.asp" target="_blank">NEW ARRIVALS|</a>
+			<a class="five" href="default.asp" target="_blank">FESTIVE|</a>
+			<a class="six" href="default.asp" target="_blank">DEAL OF THE DAY|</a>
+			<a class="seven" href="default.asp" target="_blank">GIFT CARD</a>
+			</div>
+		<br />
+		<div class="wrapper"> 
+			<img src="https://athulyashyju.github.io/13.jpg"  width="300px" height="400px"/>
+			<img src="https://athulyashyju.github.io/14.jpg" width="300px" height="400px"/>
+			<img src="https://athulyashyju.github.io/15.jpg" width="300px" height="400px"/>
+		</div>
+		<br />
+		<img src="https://athulyashyju.github.io/pic1.jpg" width="1000px" height="400px"/>
+		<br />
+		<div class="thrd" align="center">
+		<tr><td>
+			<a href="/products/category?name=WOMENS">
+			<img src="https://athulyashyju.github.io/pic2.jpg" class="borderd" width="300" height="400" alt="Celeb Banner Image"/></a>
+			<center>
+			<h2><em>Wedding Collection</em></h2>
+			</center>
+			</td>
+			<td>
+			<a href="/products/category?name=WOMENS"> 
+			<img src="https://athulyashyju.github.io/pic4.jpg" class="borderd" width="300" height="400" alt="New Look Banner Image"/></a>
+			<center>
+			<h2><em>Designer Sarees</em></h2>
+			</center>
+			</td>
+			<td>
+			<a href="/products/category?name=FESTIVE"> 
+			<img src="https://athulyashyju.github.io/pic3.jpg" class="borderd" width="300" height="400" alt="New Look Banner Image"/></a>
+			<center>
+			<h2><em>Festive</em></h2>
+			</center>
+		</td></tr>
+		</div>
+		<br />
+		<table>		<div class="make"><tr><td>
+			<img src="https://athulyashyju.github.io/pic22.jpg" class="borderd" width="400" height="200"/>
+		</td>
+		<td>
+		<center>
+		<h2><em>MAKE YOUR DAYS SPECIAL</em></h2>
+		<h2><em>WITH US</em></h2>
+		</center>
+		</td></tr>
+		</div>
+		</table>
+		<br />
+		<table>
+		<tr><td>
+			<a href="/products/category?name=WOMENS"> 
+			<img src="https://athulyashyju.github.io/pic7.jpg" class="borderd" width="300" height="400" alt="New Look Banner Image"/></a>
+			<center>
+			<h2><em>Anarkali/Suits</em></h2>
+			</center>
+		</td>
+		<td>
+			<a href="/products/category?name=WOMENS"> 
+			<img src="https://athulyashyju.github.io/pic8.jpg" class="borderd" width="300" height="400" alt="New Look Banner Image"/></a>
+			<center>
+			<h2><em>Daily Wears</em></h2>
+			</center>
+		</td>
+		<td>
+			<a href="/products/category?name=KIDS"> 
+			<img src="https://athulyashyju.github.io/pic20.jpg" class="borderd" width="300" height="400" alt="New Look Banner Image"/></a>
+			<center>
+			<h2><em>Kids Wears</em></h2>
+			</center>
+		</td></tr>
+		</table>
+		<br />
+		<center>
+		<footer>
+
+	<div id="foot">
+		<table>
+		<tr><td>
+		<div class="ac">
+		<center>
+		<h4><p>WE SHIP<br />WORLDWIDE</p></h4></center>
+		</div></td>
+		<td>
+		<center>
+		<div class="pc">
+		<h3>Contact us</h3>
+		<h5>
+		<p>Tel:9886462410<br />alankar@gmail.com<br />Mon to Fri 9:30 to 6:00 IST</p></h5></div>
+		</center>
+		</td>
+		<td>
+		<div class="sit">
+		<center>
+		<h3>Visit Us</h3>
+		<h5>
+		<p>Alankar boutiques - The Design House<br />C-3, GCDA House, Mavelipuram<br />Kakkanad, Kochi - 682030<br />Kerala, INDIA</p>
+		</h5>
+		</center></div>
+		</td>
+		<td>
+		<div class="it">
+		<center>
+		<h3> Follow Us</h3>
+<a class="rr" href="facebook.com"><img src="https://png.icons8.com/color/50/000000/facebook.png"/></a>
+<a class="rr" href="LinkedIn.com"><img src="https://png.icons8.com/color/50/000000/LinkedIn.png"/></a>
+<a class="rr" href="gmail.com"><img src="https://png.icons8.com/color/50/000000/gmail.png"/></a>
+<a class="rr" href="twitter.com"><img src="https://png.icons8.com/color/50/000000/twitter.png"/></a>
+		</center>
+		</div>
+		</td>
+		<td>
+		<div class="st">
+		<img src="https://athulyashyju.github.io/pic23.jpg"  width="100" height="100"/>
+		</div></td>
+		</tr>
+		</table>
+		</div>
+		</footer>
+		</center>
+		</body>
+		</center>
+		</html>

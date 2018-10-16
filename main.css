@@ -1,0 +1,109 @@
+body{
+	
+	background-size: 1350px 375px;
+	padding-top: 110px;	
+	background-repeat: no-repeat;
+	background-color: 	#F0F8FF;
+}
+a.q:link, a.q:visited{
+    background-color: blue;
+    color:white;
+    padding: 9px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a.ww:link, a.ww:visited{
+   
+    color:black;
+    }
+
+a.ww:hover, a.ww:active {
+    background-color:white;
+}
+#b {
+	color: 	#8B0000;
+	font-size: 40px;
+	font-style: italic;
+}
+#three {
+	color: green;
+}
+
+}
+h2{
+	color: coral;
+	font-style: italic;
+	font-size: 45px;
+}
+p{
+	color: blue;
+}
+#four
+{
+	color: 	#FF4500;
+}
+#a{
+	color: dodgerblue;
+	font-size: 50px;
+	text-align: center;
+	font-style: oblique;
+
+}
+img{
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    }
+    
+#one a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    vertical-align: right;
+   
+}
+
+#one a:hover, a:active {
+    background-color: red;
+}
+#two a:link, a:visited {
+    background-color: tomato;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    vertical-align: right;
+   
+}
+
+#two a:hover, a:active {
+    background-color:red;
+}
+input[type=text]:focus {
+	width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: lightgray;
+     border: 2px;
+    border-radius: 4px;
+}
+input[type=submit]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type=password]:focus{
+	 width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+     background-color: lightgray;
+     border: 2px;
+    border-radius: 4px;
+}

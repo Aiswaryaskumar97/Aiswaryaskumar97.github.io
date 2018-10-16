@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head> 
+
+<link rel="stylesheet" type="text/css" href="tourism1.css">
+<script>
+function validateForm1() {
+    var x = document.forms["myform"]["NAME"].value;
+    if (x == "") {
+        alert("Name must be filled out");
+        return false;
+    }
+}
+</script>
+
+<script>
+function validateForm() {
+    var x = document.forms["myform"]["pass"].value;
+    if (x == "") {
+        alert("password must be filled out");
+        return false;
+    }
+}
+</script>
+
+
+
+  </head>
+<body>
+
+<img src="https://sp.yimg.com/ib/th?id=OIP.YDFmpEwsr35JCJO3w62uWAHaE7&pid=15.1&rs=1&c=1&qlt=95&w=160&h=106" />
+
+
+
+</body>
+</html>
+
+
+<form  name="myform" action="post" onsubmit="return validateForm()" onsubmit="return validateForm1()">
+<p>
+<label>MAIL-ID&nbsp;&nbsp;<input type="text" name="NAME" size="25" id="nam" /></label><br><br><br>
+<script type="text/javascript">
+document.getElementById("nam").addEventListener("click", function(){
+    alert("must be of the type xxxxxx@gmail/@hotmail.com");
+    
+});
+</script>
+<label>PASSWORD&nbsp;&nbsp;<input type="password" name="mypassword" size=20 id="pass" /></label><br><br><br>
+<script type="text/javascript">
+document.getElementById("pass").addEventListener("click", function(){
+    alert("must contain atleast one special chracter,number and alphabet");
+    
+});
+</script>
+<br>
+<br>
+
+
+<input type="submit" value="LOGIN" id="mysub">
+<script type="text/javascript">
+document.getElementById("mysub").addEventListener("click", function(){
+    alert("are you sure???");
+});
+</script>
+<input type="reset" value="RESET" id="res" />
+<script type="text/javascript">
+document.getElementById("res").addEventListener("click", function(){
+    alert("reset will clear all your data???");
+});
+</script>
+</p>
+</form>
+
+</body>
+</html>

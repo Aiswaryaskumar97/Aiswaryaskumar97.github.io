@@ -1,0 +1,237 @@
+body{
+	
+	padding: 0px;
+    margin: 0px;
+    font: 15px arial, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+#papi{
+	color:#D68C00;
+	font: bold 35px verdana, sans-serif;
+
+}
+
+#login{
+	background-color:#000B57  ;
+	padding: 15px 30px 10px 30px;
+	
+}
+.login {
+	background-color: red;
+	position: ; 
+	font-size: 30px;
+
+}
+.logo{
+	padding-left: 210px;
+	padding-bottom: 0px;
+
+
+}
+.logo a{
+	font-size: 20px;
+}
+
+
+ .logo a:link, a:visited{
+	color: yellow;
+	text-decoration: none;
+}
+.logo a:hover{
+	color:#4F61E3;
+	text-decoration: none;
+
+}
+
+
+ nav .navb{
+ 	position:absolute;
+ 	 top:90px;
+ 	  right:10px;
+ 	   height: 37px;
+ 	   font-size: 17px;
+ 	}
+
+
+nav .menu a:link, a:visited {
+    background-color: #6672C9;
+    color:#FFE6B1;
+    padding: 9px 16px;
+    text-align: center;
+    border-radius: 2px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+nav .menu a:hover, a:active {
+    background-color:#18289B;
+}
+
+.button{
+	background-color: #D68C00;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.radi{
+
+	font-size: 20px;
+}
+.for{
+	background-image: url("https://athulyashyju.github.io/fli1.jpg");
+	background-size: 1350px 500px;
+	padding-top: 110px;	
+	background-repeat: no-repeat;
+    
+	font-size: 30px;
+}
+#spcl {
+	
+	padding: 0px 20px 20px 40px;
+	background-repeat: no-repeat;
+	
+}
+#spcl h2{
+	color:#1C0274;
+	font: bold 35px Garamond, sans-serif;
+}
+#spcl h3{
+	color: #00646C;
+	text-align: center;
+	font: bold 20px verdana, sans-serif;
+
+}
+#spcl h4{
+	text-align: center;
+}
+#spcl img{
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+   
+    }
+#spcl a:link, a:visited {
+    background-color: #646CA2;
+    color:#D7DBFA    ;
+    border: 2px solid #BAC2FF;
+    margin-left: 90px;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#spcl a:hover, a:active {
+    background-color:  #18289B;
+    color: #6672C9;
+}
+input[type=text], select {
+	width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    background-color: white;
+    background-image: url("https://athulyashyju.github.io/ic_flight_takeoff_black_24dp_1x.png");
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+ 
+}
+
+ input[type=text],select {
+	width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc; 
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url("https://athulyashyju.github.io/ic_flight_land_black_24dp_1x.png");
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+input[type=date], select {
+	width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    background-color: white;
+     background-image: url("https://athulyashyju.github.io/ic_date_range_black_24dp_1x.png");
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+input[type=number], select {
+	width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    background-color: white;
+    background-image: url("https://athulyashyju.github.io/ic_people_black_24dp_1x.png");
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+footer{
+	background-color:#323232;
+}
+
+	 a.abt:link {color:#D5C47A;
+	 text-decoration: none;}
+	 a.abt:visited {color:#D5C47A;
+	 text-decoration: none;}
+	a.abt:hover {font-size:110%;}
+	a.car:link {color:#D5C47A;text-decoration: none;}
+	 a.car:visited {color:#D5C47A;text-decoration: none;}
+	a.car:hover {font-size:105%;}
+p.e{
+	color:#D5C47A;
+}
+	p.e:link {color:red;text-decoration: none;}
+	 p.e:visited {color:red;text-decoration: none;}
+	p.e:hover {font-size:110%;}
+
+	a.rr:link {color:#D5C47A;text-decoration: none;}
+	 a.rr:visited {color:#D5C47A;text-decoration: none;}
+	a.rr:hover {text-decoration: underline;}
+
+	.ac h3{
+		color:#EBB379;
+	}
+	.pc h3{
+		color:#EBB379;
+	}
+	.sit h3{
+		color:#EBB379;
+	}
+
+	.ac{
+		padding-right: 200px;
+		padding-left: 150px;
+		padding-bottom: 60px;
+	}
+	.sit{
+		padding-right: 200px;
+		padding-left: 200px;
+		padding-bottom: 15px;
+	}
+	.pc{
+		padding-bottom: 60px;
+	}
+
+

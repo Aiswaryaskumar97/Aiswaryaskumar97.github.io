@@ -1,0 +1,15 @@
+h1 {
+       color:blue;
+      font-size:50px
+     }
+h2 {
+      color:green;
+      font-size:30px;
+     }
+body {
+background-image:url("http://www.eatlogos.com/Entertainment_logos/png/vector_tourism_entertaiment_sun_rise_logo_idea.png");background-repeat:no-repeat;
+background-size:100%;
+}
+a:link{color:green;}
+a:visited{color:blue;}
+a:hover{color:red;}

@@ -3,7 +3,7 @@
 <html>
 <head>
   <title>Login</title>
-  <link rel="stylesheet" type="text/css" href="ls.css">
+  <link rel="stylesheet" type="text/css" href="aiswaryaskumar97.github.io/ls.css">
 </head>
 <body>
   <script type="text/javascript" src="logjav.js"></script>
